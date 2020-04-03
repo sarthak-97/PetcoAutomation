@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PetcoAutomationSuite" duration-ms="51166" started-at="2020-04-03T11:53:06Z" finished-at="2020-04-03T11:53:57Z">
+    <groups>
+    </groups>
+    <test name="PetcoAutomation" duration-ms="51166" started-at="2020-04-03T11:53:06Z" finished-at="2020-04-03T11:53:57Z">
+      <class name="com.petco.scripts.PetcoTestNG">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.petco.scripts.PetcoTestNG@5622fdf]" name="beforeClass" is-config="true" duration-ms="15035" started-at="2020-04-03T11:53:06Z" finished-at="2020-04-03T11:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="automatePetco()[pri:0, instance:com.petco.scripts.PetcoTestNG@5622fdf]" name="automatePetco" duration-ms="35736" started-at="2020-04-03T11:53:21Z" finished-at="2020-04-03T11:53:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automatePetco -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.petco.scripts.PetcoTestNG@5622fdf]" name="afterClass" is-config="true" duration-ms="356" started-at="2020-04-03T11:53:57Z" finished-at="2020-04-03T11:53:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.petco.scripts.PetcoTestNG -->
+    </test> <!-- PetcoAutomation -->
+  </suite> <!-- PetcoAutomationSuite -->
+</testng-results>
